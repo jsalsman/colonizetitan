@@ -1,6 +1,8 @@
 # colonizetitan
 Contest to Create Independent Colony Plans
 
+![Initial Twinery Flowchart](https://raw.githubusercontent.com/jsalsman/colonizetitan/master/twinery.png)
+
 There are two extra PDF files in the PDFs subdirectory, to provide more ideas for the initial draft plans. When the player saves a plan, they should, for example, get to see a movie about the default plan, with some potential problems that their edits may or may not have addressed. These can be updated as the contest progresses, limited by some set budget, and extended as an option.
 
 The initial budget shown to the user when they are bidding on their "commercial fare" by estimating the plan cost, will depend on the final plans selected and e.g. https://www.nasa.gov/offices/oct/home/roadmaps/index.html
