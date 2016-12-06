@@ -1,11 +1,21 @@
 :: StoryTitle
 Titan Colonization Plan Contest
 
-:: UserScript[script]
+:: Introduction
+[Explain purpose of scenario, and ask the player to estimate the cost of colonizing Titan.]
 
+[[Convert cost estimate to a ticker price.]] 
 
-:: UserStylesheet[stylesheet]
+References: https://github.com/jsalsman/colonizetitan
 
+http://twinery.org/2/?#stories/da9db84a-5376-ecac-3ebb-3b5198a21dec
+
+:: Convert cost estimate to a ticker price.
+[Display cost estimate as a budget. 
+
+Ask player to select one of the three initial plans.]
+
+[[NavComms]] 
 
 :: NavComms
  Hello. I'm [Name and Title], your guide, for the next 
@@ -33,18 +43,6 @@ Titan Colonization Plan Contest
  
  [[Open blank document in editor]] 
 
-:: Introduction
-[Explain purpose of scenario, and ask the player to estimate the cost of colonizing Titan.]
-
-[[Convert cost estimate to a ticker price.]] 
-
-:: Convert cost estimate to a ticker price.
-[Display cost estimate as a budget. 
-
-Ask player to select one of the three initial plans.]
-
-[[NavComms]] 
-
 :: Open Plan A in Editor
 [initial draft plan based on 
 
@@ -70,4 +68,12 @@ Ashmore et al. (2001) http://www.lpi.usra.edu/publications/reports/CB-1106/maryl
 Anything saved here will be added to the contest review queue, which might as well be hosted on github. There is also a way to go back to [[NavComms]] 
 
 Copyright released under the GNU Affero General Public License or any subsequent version of that or the Apache License with superior patent cross-licensing provisions, December 6, 2016 by Jim Salsman.
+
+
+:: References
+https://github.com/jsalsman/colonizetitan
+
+jsalsman/colonizetitan
+
+http://twinery.org/2/?#stories/da9db84a-5376-ecac-3ebb-3b5198a21dec
 
