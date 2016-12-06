@@ -1,4 +1,4 @@
-# colonizetitan
+# ColonizeTitan
 Contest to Create Independent Space Colony Plans
 
 ![Initial Twinery Flowchart](https://raw.githubusercontent.com/jsalsman/colonizetitan/master/twinery.png)
@@ -7,7 +7,7 @@ There are two extra PDF files in the PDFs subdirectory, to provide more ideas fo
 
 The initial budget shown to the user when they are bidding on their "commercial fare" by estimating the plan cost, will depend on the final plans selected and e.g. https://www.nasa.gov/offices/oct/home/roadmaps/index.html
 
-# To do
+# To Do
 * submission queue
 * leaderboard
 * budget generator (based on goods, services, and TRL difference research need estimates per NASA Roadmaps)
@@ -23,7 +23,7 @@ The initial budget shown to the user when they are bidding on their "commercial 
 # Copyright
 Copyright released under the GNU Affero General Public License or any subsequent version of that or the Apache License with superior patent cross-licensing provisions. By Jim Salsman, December 2016.
 
-# More information about Twine, Twinery.org, and Twee
+# More Information about Twine, Twinery.org, and Twee
 http://twinery.org
 
 https://www.youtube.com/watch?v=o95Ns9XiIwk
