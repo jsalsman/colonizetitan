@@ -1,0 +1,73 @@
+:: StoryTitle
+Titan Colonization Plan Contest
+
+:: UserScript[script]
+
+
+:: UserStylesheet[stylesheet]
+
+
+:: NavComms
+ Hello. I'm [Name and Title], your guide, for the next 
+ thirty seconds at least, to navigational communications.
+ As you agreed when you bid on your commercial fare, you 
+ are going to be helping to colonize Titan. As this is a 
+ private cruise, you will not be penalized if you fail 
+ to help colonize Titan, but you may be penalized if you 
+ hinder the colonization of the Saturnian Moons. Your 
+ intial assignment is easy: draft your colonization plan. 
+ You have been provided with information processing 
+ equipment similar to that found on Earth, with which 
+ you may draft a new plan, or edit any of the three 
+ example plans from which you have been allowed to 
+ choose. Our experts will evaluate plans and questions 
+ you may submit. If you are lucky, your design might be 
+ chosen as a prototype station colony closer to Earth. 
+ Safe journey and many happy returns!
+ 
+ [[Open Plan A in Editor]] 
+ 
+ [[Open Plan B in Editor]] 
+ 
+ [[Open Plan C in Editor]] 
+ 
+ [[Open blank document in editor]] 
+
+:: Introduction
+[Explain purpose of scenario, and ask the player to estimate the cost of colonizing Titan.]
+
+[[Convert cost estimate to a ticker price.]] 
+
+:: Convert cost estimate to a ticker price.
+[Display cost estimate as a budget. 
+
+Ask player to select one of the three initial plans.]
+
+[[NavComms]] 
+
+:: Open Plan A in Editor
+[initial draft plan based on 
+
+Benton et al. (2012) https://www.researchgate.net/publication/233988445_Modular_Space_Vehicle_Architecture_for_Human_Exploration_of_Mars_Using_Artificial_Gravity_and_Mini-Magnetosphere_Crew_Radiation_Shield
+
+] There is also a way to go back to [[NavComms]] 
+
+:: Open Plan B in Editor
+[initial draft plan based on 
+
+(B) Sorensen (2005) http://www.artificial-gravity.com/JANNAF-2005-Sorensen.pdf
+
+] There is also a way to go back to [[NavComms]] 
+
+:: Open Plan C in Editor
+[initial draft plan based on 
+
+Ashmore et al. (2001) http://www.lpi.usra.edu/publications/reports/CB-1106/maryland01b.pdf
+
+] There is also a way to go back to [[NavComms]] 
+
+:: Open blank document in editor
+Anything saved here will be added to the contest review queue, which might as well be hosted on github. There is also a way to go back to [[NavComms]] 
+
+Copyright released under the GNU Affero General Public License or any subsequent version of that or the Apache License with superior patent cross-licensing provisions, December 6, 2016 by Jim Salsman.
+
